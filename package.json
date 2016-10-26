@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/roberto-hofstetter/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/roberto-hofstetter/js-tdd-course#readme"
+  "homepage": "https://github.com/roberto-hofstetter/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^3.8.1"
+  }
 }
